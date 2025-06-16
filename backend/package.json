@@ -1,0 +1,17 @@
+{
+  "name": "chat-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "chat-backend": "file:",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
